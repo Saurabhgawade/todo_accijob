@@ -1,0 +1,41 @@
+.logo img{
+    width: 200px;
+    height:80px;
+    margin-left:40%;
+    margin-top: 100px;
+
+}
+.search input{
+    margin-left: 300px;
+    height: 40px;
+    width: 50%;
+    
+
+}
+.search button{
+    height: 40px;
+
+}
+.search{
+    display: flex;
+    align-items: center;
+
+}
+.aic{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.items span{
+    background-color:red;
+}
+.items h4{
+    color: aqua;
+}
+.all-container{
+    background-color: black;
+}
+.search button{
+    color: white;
+    background-color: blue;
+}
